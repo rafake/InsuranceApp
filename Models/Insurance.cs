@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace InsuranceApp.Models
 {
-    public class InsuranceClass
+    public class Insurance
     {
         public int InsuranceId { get; set; }
         public string InsuranceName { get; set; }
